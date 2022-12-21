@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class SumOfDigits {
+public class Sum_of_digits {
 
 	public static void main(String[] args) {
 		System.out.println("Enter a 4 digit number");
