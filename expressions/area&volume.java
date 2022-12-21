@@ -1,7 +1,7 @@
 
 import java.io.*;
 import java.util.*;
-public class AreaAndVolume {
+public class Area_and_volume {
 
 	public static void main(String[] args) {
 		System.out.println("Enter radius");
