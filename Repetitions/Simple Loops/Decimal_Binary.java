@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class DecimalToBinary {
+public class Decimal_Binary {
 
 	public static void main(String[] args) {
 		System.out.println("enter a decimal number");
