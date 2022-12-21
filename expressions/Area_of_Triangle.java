@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.lang.Math;
-public class AreaOfTriangle {
+public class Area_of_Triangle {
 
 	public static void main(String[] args) {
 		System.out.println("enter sides of the triangle");
