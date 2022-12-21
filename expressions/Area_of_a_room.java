@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class AreaOfRoom {
+public class Area_of_a_room {
 
 	public static void main(String[] args) {
 		System.out.println("enter width and length of your room");
